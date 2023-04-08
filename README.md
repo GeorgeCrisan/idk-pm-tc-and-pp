@@ -1,21 +1,5 @@
 # IDK-PM Property Management Software
 
-## Starting Development
-
-Start the app in the `dev` environment:
-
-```bash
-npm start
-```
-
-## Packaging for Production
-
-To package apps for the local platform:
-
-```bash
-npm run package
-```
-
 ## Terms and conditions
 
 By using IDK-PM Property Management Software desktop application you
